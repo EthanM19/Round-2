@@ -250,19 +250,7 @@ footer {
     text-align: center;
 }
 
-.footer-map iframe {
-    border: none;
-    width: 100%; /* Set width to 100% */
-    height: 200px; /* Maintain the desired height */
-    margin-right: 30px; /* Optionally adjust margin */
-}
 
-.footer-map {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden; /* Ensure map stays within container */
-}
 
 .copyright {
     text-align: center;
